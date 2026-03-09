@@ -28,4 +28,4 @@ O foco aqui não é apenas código pronto, mas o registro do meu processo de apr
 ---
 
 *“A constância vence o talento quando o talento não tem constância.”*
-Desenvolvido por **Otávio** | 3º Semestre de Análise e Desenvolvimento de Sistemas
+Desenvolvido por ** Yasmin Lopes** | 3º Semestre de Análise e Desenvolvimento de Sistemas
