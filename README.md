@@ -1,5 +1,6 @@
 # jornada-dados-python-sql
-Repositório de documentação e evolução técnica em Engenharia de Dados, focado em Python, SQL e processos de ETL. 🚀
+
+🚀 Repositório de documentação diária e evolução técnica em Engenharia de Dados, focado em Python, SQL e processos de ETL (3º Semestre ADS).
 
 # 🚀 Jornada de Aprendizado: Engenharia de Dados
 
